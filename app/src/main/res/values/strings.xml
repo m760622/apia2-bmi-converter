@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">BMI Calculator</string>
     <string name="calculate_button">Calculate</string>
+    <string name="calculate_weight">Enter your weight</string>
+    <string name="calculate_height_input">Enter height</string>
+    <string name="calculate_default_weight">80</string>
+    <string name="calculate_default_height">170</string>
 </resources>
